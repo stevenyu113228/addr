@@ -1,0 +1,29 @@
+{
+  "version": "v1",
+  "roads": [
+    "CHA",
+    "CYI",
+    "CYQ",
+    "HSQ",
+    "HSZ",
+    "HUA",
+    "ILA",
+    "KEE",
+    "KHH",
+    "KIN",
+    "LIE",
+    "MIA",
+    "NAN",
+    "NWT",
+    "PEN",
+    "PIF",
+    "TAO",
+    "TNN",
+    "TPE",
+    "TTT",
+    "TXG",
+    "YUN"
+  ],
+  "zip5": [],
+  "zip6": []
+}

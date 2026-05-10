@@ -1,0 +1,14 @@
+{
+  "name": "tw-en-address-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "資料預處理腳本：把官方/開源資料轉成 data/*.json。runtime 不會用到。",
+  "scripts": {
+    "build:index": "node build-index.mjs",
+    "build:roads": "node build-roads.mjs",
+    "build:zip5": "node build-zip5.mjs",
+    "build:zip6": "node build-zip6.mjs",
+    "build:all": "npm run build:index && npm run build:roads && npm run build:zip5 && npm run build:zip6"
+  }
+}

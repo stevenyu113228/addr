@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>addr — 台灣中文地址 → 郵遞區號 + 英譯</title>
+  <meta name="description" content="貼上台灣中文地址，自動拆出縣市/區/路街/巷弄號樓，產出官方規範英文地址與郵遞區號。純前端、隱私安全。" />
+  <link rel="stylesheet" href="./css/styles.css" />
+</head>
+<body>
+  <header class="hdr">
+    <h1>addr</h1>
+    <p class="tagline">貼上台灣中文地址 → 拆解、查郵遞區號、轉英文</p>
+  </header>
+
+  <main class="main">
+    <section class="input-area">
+      <label for="addr-input" class="visually-hidden">輸入中文地址</label>
+      <div class="input-wrap">
+        <textarea
+          id="addr-input"
+          rows="2"
+          autofocus
+          placeholder="例：臺北市信義區市府路1號 5樓"
+          autocomplete="off"
+          autocorrect="off"
+          autocapitalize="off"
+          spellcheck="false"
+          aria-autocomplete="list"
+          aria-controls="suggestions"
+          aria-expanded="false"
+        ></textarea>
+        <ul id="suggestions" class="suggestions" role="listbox" hidden></ul>
+      </div>
+      <div class="input-hint" id="input-hint">輸入時會自動補全縣市、區、路街。Esc 關閉提示。</div>
+    </section>
+
+    <section class="result" id="result" hidden>
+      <div class="card">
+        <div class="card-row">
+          <span class="card-label">整理後中文</span>
+          <code class="card-value" id="zh-out"></code>
+          <button class="copy-btn" data-target="zh-out" title="複製">複製</button>
+        </div>
+        <div class="card-row">
+          <span class="card-label">郵遞區號</span>
+          <code class="card-value" id="zip-out"></code>
+          <button class="copy-btn" data-target="zip-out" title="複製">複製</button>
+        </div>
+        <div class="card-row">
+          <span class="card-label">英文地址</span>
+          <code class="card-value" id="en-out"></code>
+          <button class="copy-btn" data-target="en-out" title="複製">複製</button>
+        </div>
+        <div class="card-warnings" id="warnings" hidden></div>
+      </div>
+    </section>
+
+    <section class="history" id="history-section" hidden>
+      <div class="history-head">
+        <span>最近搜尋</span>
+        <button id="clear-history" class="text-btn">清除全部</button>
+      </div>
+      <ul id="history-list" class="history-list"></ul>
+    </section>
+  </main>
+
+  <footer class="ftr">
+    純瀏覽器運算，不上傳地址 ·
+    <a href="https://github.com/" target="_blank" rel="noopener">原始碼</a> ·
+    資料源自
+    <a href="https://github.com/donma/TaiwanAddressCityAreaRoadChineseEnglishJSON" target="_blank" rel="noopener">donma</a>
+    與<a href="https://www.post.gov.tw/post/internet/Download/all_list.jsp?ID=2201" target="_blank" rel="noopener">中華郵政</a>
+  </footer>
+
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>

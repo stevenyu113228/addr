@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Node (only used by scripts/，不影響 runtime)
+node_modules/
+*.log
+
+# 預處理用的原始檔（手動下載放這，不 commit）
+data/_raw/

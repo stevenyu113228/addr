@@ -1,0 +1,3335 @@
+[
+  {
+    "city": "TPE",
+    "zh": "中正區",
+    "en": "Zhongzheng Dist.",
+    "zip3": "100",
+    "alias": [
+      "中正"
+    ]
+  },
+  {
+    "city": "TPE",
+    "zh": "大同區",
+    "en": "Datong Dist.",
+    "zip3": "103",
+    "alias": [
+      "大同"
+    ]
+  },
+  {
+    "city": "TPE",
+    "zh": "中山區",
+    "en": "Zhongshan Dist.",
+    "zip3": "104",
+    "alias": [
+      "中山"
+    ]
+  },
+  {
+    "city": "TPE",
+    "zh": "松山區",
+    "en": "Songshan Dist.",
+    "zip3": "105",
+    "alias": [
+      "松山"
+    ]
+  },
+  {
+    "city": "TPE",
+    "zh": "大安區",
+    "en": "Da’an Dist.",
+    "zip3": "106",
+    "alias": [
+      "大安"
+    ]
+  },
+  {
+    "city": "TPE",
+    "zh": "萬華區",
+    "en": "Wanhua Dist.",
+    "zip3": "108",
+    "alias": [
+      "萬華"
+    ]
+  },
+  {
+    "city": "TPE",
+    "zh": "信義區",
+    "en": "Xinyi Dist.",
+    "zip3": "110",
+    "alias": [
+      "信義"
+    ]
+  },
+  {
+    "city": "TPE",
+    "zh": "士林區",
+    "en": "Shilin Dist.",
+    "zip3": "111",
+    "alias": [
+      "士林"
+    ]
+  },
+  {
+    "city": "TPE",
+    "zh": "北投區",
+    "en": "Beitou Dist.",
+    "zip3": "112",
+    "alias": [
+      "北投"
+    ]
+  },
+  {
+    "city": "TPE",
+    "zh": "內湖區",
+    "en": "Neihu Dist.",
+    "zip3": "114",
+    "alias": [
+      "內湖"
+    ]
+  },
+  {
+    "city": "TPE",
+    "zh": "南港區",
+    "en": "Nangang Dist.",
+    "zip3": "115",
+    "alias": [
+      "南港"
+    ]
+  },
+  {
+    "city": "TPE",
+    "zh": "文山區",
+    "en": "Wenshan Dist.",
+    "zip3": "116",
+    "alias": [
+      "文山"
+    ]
+  },
+  {
+    "city": "KEE",
+    "zh": "仁愛區",
+    "en": "Ren’ai Dist.",
+    "zip3": "200",
+    "alias": [
+      "仁愛"
+    ]
+  },
+  {
+    "city": "KEE",
+    "zh": "信義區",
+    "en": "Xinyi Dist.",
+    "zip3": "201",
+    "alias": [
+      "信義"
+    ]
+  },
+  {
+    "city": "KEE",
+    "zh": "中正區",
+    "en": "Zhongzheng Dist.",
+    "zip3": "202",
+    "alias": [
+      "中正"
+    ]
+  },
+  {
+    "city": "KEE",
+    "zh": "中山區",
+    "en": "Zhongshan Dist.",
+    "zip3": "203",
+    "alias": [
+      "中山"
+    ]
+  },
+  {
+    "city": "KEE",
+    "zh": "安樂區",
+    "en": "Anle Dist.",
+    "zip3": "204",
+    "alias": [
+      "安樂"
+    ]
+  },
+  {
+    "city": "KEE",
+    "zh": "暖暖區",
+    "en": "Nuannuan Dist.",
+    "zip3": "205",
+    "alias": [
+      "暖暖"
+    ]
+  },
+  {
+    "city": "KEE",
+    "zh": "七堵區",
+    "en": "Qidu Dist.",
+    "zip3": "206",
+    "alias": [
+      "七堵"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "萬里區",
+    "en": "Wanli Dist.",
+    "zip3": "207",
+    "alias": [
+      "萬里"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "金山區",
+    "en": "Jinshan Dist.",
+    "zip3": "208",
+    "alias": [
+      "金山"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "板橋區",
+    "en": "Banqiao Dist.",
+    "zip3": "220",
+    "alias": [
+      "板橋"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "汐止區",
+    "en": "Xizhi Dist.",
+    "zip3": "221",
+    "alias": [
+      "汐止"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "深坑區",
+    "en": "Shenkeng Dist.",
+    "zip3": "222",
+    "alias": [
+      "深坑"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "石碇區",
+    "en": "Shiding Dist.",
+    "zip3": "223",
+    "alias": [
+      "石碇"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "瑞芳區",
+    "en": "Ruifang Dist.",
+    "zip3": "224",
+    "alias": [
+      "瑞芳"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "平溪區",
+    "en": "Pingxi Dist.",
+    "zip3": "226",
+    "alias": [
+      "平溪"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "雙溪區",
+    "en": "Shuangxi Dist.",
+    "zip3": "227",
+    "alias": [
+      "雙溪"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "貢寮區",
+    "en": "Gongliao Dist.",
+    "zip3": "228",
+    "alias": [
+      "貢寮"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "新店區",
+    "en": "Xindian Dist.",
+    "zip3": "231",
+    "alias": [
+      "新店"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "坪林區",
+    "en": "Pinglin Dist.",
+    "zip3": "232",
+    "alias": [
+      "坪林"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "烏來區",
+    "en": "Wulai Dist.",
+    "zip3": "233",
+    "alias": [
+      "烏來"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "永和區",
+    "en": "Yonghe Dist.",
+    "zip3": "234",
+    "alias": [
+      "永和"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "中和區",
+    "en": "Zhonghe Dist.",
+    "zip3": "235",
+    "alias": [
+      "中和"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "土城區",
+    "en": "Tucheng Dist.",
+    "zip3": "236",
+    "alias": [
+      "土城"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "三峽區",
+    "en": "Sanxia Dist.",
+    "zip3": "237",
+    "alias": [
+      "三峽"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "樹林區",
+    "en": "Shulin Dist.",
+    "zip3": "238",
+    "alias": [
+      "樹林"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "鶯歌區",
+    "en": "Yingge Dist.",
+    "zip3": "239",
+    "alias": [
+      "鶯歌"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "三重區",
+    "en": "Sanchong Dist.",
+    "zip3": "241",
+    "alias": [
+      "三重"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "新莊區",
+    "en": "Xinzhuang Dist.",
+    "zip3": "242",
+    "alias": [
+      "新莊"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "泰山區",
+    "en": "Taishan Dist.",
+    "zip3": "243",
+    "alias": [
+      "泰山"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "林口區",
+    "en": "Linkou Dist.",
+    "zip3": "244",
+    "alias": [
+      "林口"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "蘆洲區",
+    "en": "Luzhou Dist.",
+    "zip3": "247",
+    "alias": [
+      "蘆洲"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "五股區",
+    "en": "Wugu Dist.",
+    "zip3": "248",
+    "alias": [
+      "五股"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "八里區",
+    "en": "Bali Dist.",
+    "zip3": "249",
+    "alias": [
+      "八里"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "淡水區",
+    "en": "Tamsui Dist.",
+    "zip3": "251",
+    "alias": [
+      "淡水"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "三芝區",
+    "en": "Sanzhi Dist.",
+    "zip3": "252",
+    "alias": [
+      "三芝"
+    ]
+  },
+  {
+    "city": "NWT",
+    "zh": "石門區",
+    "en": "Shimen Dist.",
+    "zip3": "253",
+    "alias": [
+      "石門"
+    ]
+  },
+  {
+    "city": "LIE",
+    "zh": "南竿鄉",
+    "en": "Nangan Township",
+    "zip3": "209",
+    "alias": [
+      "南竿"
+    ]
+  },
+  {
+    "city": "LIE",
+    "zh": "北竿鄉",
+    "en": "Beigan Township",
+    "zip3": "210",
+    "alias": [
+      "北竿"
+    ]
+  },
+  {
+    "city": "LIE",
+    "zh": "莒光鄉",
+    "en": "Juguang Township",
+    "zip3": "211",
+    "alias": [
+      "莒光"
+    ]
+  },
+  {
+    "city": "LIE",
+    "zh": "東引鄉",
+    "en": "Dongyin Township",
+    "zip3": "212",
+    "alias": [
+      "東引"
+    ]
+  },
+  {
+    "city": "ILA",
+    "zh": "宜蘭市",
+    "en": "Yilan City",
+    "zip3": "260",
+    "alias": [
+      "宜蘭"
+    ]
+  },
+  {
+    "city": "ILA",
+    "zh": "壯圍鄉",
+    "en": "Zhuangwei Township",
+    "zip3": "263",
+    "alias": [
+      "壯圍"
+    ]
+  },
+  {
+    "city": "ILA",
+    "zh": "頭城鎮",
+    "en": "Toucheng Township",
+    "zip3": "261",
+    "alias": [
+      "頭城"
+    ]
+  },
+  {
+    "city": "ILA",
+    "zh": "礁溪鄉",
+    "en": "Jiaoxi Township",
+    "zip3": "262",
+    "alias": [
+      "礁溪"
+    ]
+  },
+  {
+    "city": "ILA",
+    "zh": "員山鄉",
+    "en": "Yuanshan Township",
+    "zip3": "264",
+    "alias": [
+      "員山"
+    ]
+  },
+  {
+    "city": "ILA",
+    "zh": "羅東鎮",
+    "en": "Luodong Township",
+    "zip3": "265",
+    "alias": [
+      "羅東"
+    ]
+  },
+  {
+    "city": "ILA",
+    "zh": "三星鄉",
+    "en": "Sanxing Township",
+    "zip3": "266",
+    "alias": [
+      "三星"
+    ]
+  },
+  {
+    "city": "ILA",
+    "zh": "大同鄉",
+    "en": "Datong Township",
+    "zip3": "267",
+    "alias": [
+      "大同"
+    ]
+  },
+  {
+    "city": "ILA",
+    "zh": "五結鄉",
+    "en": "Wujie Township",
+    "zip3": "268",
+    "alias": [
+      "五結"
+    ]
+  },
+  {
+    "city": "ILA",
+    "zh": "冬山鄉",
+    "en": "Dongshan Township",
+    "zip3": "269",
+    "alias": [
+      "冬山"
+    ]
+  },
+  {
+    "city": "ILA",
+    "zh": "蘇澳鎮",
+    "en": "Su’ao Township",
+    "zip3": "270",
+    "alias": [
+      "蘇澳"
+    ]
+  },
+  {
+    "city": "ILA",
+    "zh": "南澳鄉",
+    "en": "Nan’ao Township",
+    "zip3": "272",
+    "alias": [
+      "南澳"
+    ]
+  },
+  {
+    "city": "ILA",
+    "zh": "釣魚臺",
+    "en": "Diaoyutai",
+    "zip3": "290",
+    "alias": []
+  },
+  {
+    "city": "HSZ",
+    "zh": "東區",
+    "en": "East Dist.",
+    "zip3": "300",
+    "alias": [
+      "東"
+    ]
+  },
+  {
+    "city": "HSZ",
+    "zh": "北區",
+    "en": "North Dist.",
+    "zip3": "300",
+    "alias": [
+      "北"
+    ]
+  },
+  {
+    "city": "HSZ",
+    "zh": "香山區",
+    "en": "Xiangshan Dist.",
+    "zip3": "300",
+    "alias": [
+      "香山"
+    ]
+  },
+  {
+    "city": "HSQ",
+    "zh": "寶山鄉",
+    "en": "Baoshan Township",
+    "zip3": "308",
+    "alias": [
+      "寶山"
+    ]
+  },
+  {
+    "city": "HSQ",
+    "zh": "竹北市",
+    "en": "Zhubei City",
+    "zip3": "302",
+    "alias": [
+      "竹北"
+    ]
+  },
+  {
+    "city": "HSQ",
+    "zh": "湖口鄉",
+    "en": "Hukou Township",
+    "zip3": "303",
+    "alias": [
+      "湖口"
+    ]
+  },
+  {
+    "city": "HSQ",
+    "zh": "新豐鄉",
+    "en": "Xinfeng Township",
+    "zip3": "304",
+    "alias": [
+      "新豐"
+    ]
+  },
+  {
+    "city": "HSQ",
+    "zh": "新埔鎮",
+    "en": "Xinpu Township",
+    "zip3": "305",
+    "alias": [
+      "新埔"
+    ]
+  },
+  {
+    "city": "HSQ",
+    "zh": "關西鎮",
+    "en": "Guanxi Township",
+    "zip3": "306",
+    "alias": [
+      "關西"
+    ]
+  },
+  {
+    "city": "HSQ",
+    "zh": "芎林鄉",
+    "en": "Qionglin Township",
+    "zip3": "307",
+    "alias": [
+      "芎林"
+    ]
+  },
+  {
+    "city": "HSQ",
+    "zh": "竹東鎮",
+    "en": "Zhudong Township",
+    "zip3": "310",
+    "alias": [
+      "竹東"
+    ]
+  },
+  {
+    "city": "HSQ",
+    "zh": "五峰鄉",
+    "en": "Wufeng Township",
+    "zip3": "311",
+    "alias": [
+      "五峰"
+    ]
+  },
+  {
+    "city": "HSQ",
+    "zh": "橫山鄉",
+    "en": "Hengshan Township",
+    "zip3": "312",
+    "alias": [
+      "橫山"
+    ]
+  },
+  {
+    "city": "HSQ",
+    "zh": "尖石鄉",
+    "en": "Jianshi Township",
+    "zip3": "313",
+    "alias": [
+      "尖石"
+    ]
+  },
+  {
+    "city": "HSQ",
+    "zh": "北埔鄉",
+    "en": "Beipu Township",
+    "zip3": "314",
+    "alias": [
+      "北埔"
+    ]
+  },
+  {
+    "city": "HSQ",
+    "zh": "峨眉鄉",
+    "en": "Emei Township",
+    "zip3": "315",
+    "alias": [
+      "峨眉"
+    ]
+  },
+  {
+    "city": "TAO",
+    "zh": "中壢區",
+    "en": "Zhongli Dist.",
+    "zip3": "320",
+    "alias": [
+      "中壢"
+    ]
+  },
+  {
+    "city": "TAO",
+    "zh": "平鎮區",
+    "en": "Pingzhen Dist.",
+    "zip3": "324",
+    "alias": [
+      "平鎮"
+    ]
+  },
+  {
+    "city": "TAO",
+    "zh": "龍潭區",
+    "en": "Longtan Dist.",
+    "zip3": "325",
+    "alias": [
+      "龍潭"
+    ]
+  },
+  {
+    "city": "TAO",
+    "zh": "楊梅區",
+    "en": "Yangmei Dist.",
+    "zip3": "326",
+    "alias": [
+      "楊梅"
+    ]
+  },
+  {
+    "city": "TAO",
+    "zh": "新屋區",
+    "en": "Xinwu Dist.",
+    "zip3": "327",
+    "alias": [
+      "新屋"
+    ]
+  },
+  {
+    "city": "TAO",
+    "zh": "觀音區",
+    "en": "Guanyin Dist.",
+    "zip3": "328",
+    "alias": [
+      "觀音"
+    ]
+  },
+  {
+    "city": "TAO",
+    "zh": "桃園區",
+    "en": "Taoyuan Dist.",
+    "zip3": "330",
+    "alias": [
+      "桃園"
+    ]
+  },
+  {
+    "city": "TAO",
+    "zh": "龜山區",
+    "en": "Guishan Dist.",
+    "zip3": "333",
+    "alias": [
+      "龜山"
+    ]
+  },
+  {
+    "city": "TAO",
+    "zh": "八德區",
+    "en": "Bade Dist.",
+    "zip3": "334",
+    "alias": [
+      "八德"
+    ]
+  },
+  {
+    "city": "TAO",
+    "zh": "大溪區",
+    "en": "Daxi Dist.",
+    "zip3": "335",
+    "alias": [
+      "大溪"
+    ]
+  },
+  {
+    "city": "TAO",
+    "zh": "復興區",
+    "en": "Fuxing Dist.",
+    "zip3": "336",
+    "alias": [
+      "復興"
+    ]
+  },
+  {
+    "city": "TAO",
+    "zh": "大園區",
+    "en": "Dayuan Dist.",
+    "zip3": "337",
+    "alias": [
+      "大園"
+    ]
+  },
+  {
+    "city": "TAO",
+    "zh": "蘆竹區",
+    "en": "Luzhu Dist.",
+    "zip3": "338",
+    "alias": [
+      "蘆竹"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "竹南鎮",
+    "en": "Zhunan Township",
+    "zip3": "350",
+    "alias": [
+      "竹南"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "頭份市",
+    "en": "Toufen City",
+    "zip3": "351",
+    "alias": [
+      "頭份"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "三灣鄉",
+    "en": "Sanwan Township",
+    "zip3": "352",
+    "alias": [
+      "三灣"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "南庄鄉",
+    "en": "Nanzhuang Township",
+    "zip3": "353",
+    "alias": [
+      "南庄"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "獅潭鄉",
+    "en": "Shitan Township",
+    "zip3": "354",
+    "alias": [
+      "獅潭"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "後龍鎮",
+    "en": "Houlong Township",
+    "zip3": "356",
+    "alias": [
+      "後龍"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "通霄鎮",
+    "en": "Tongxiao Township",
+    "zip3": "357",
+    "alias": [
+      "通霄"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "苑裡鎮",
+    "en": "Yuanli Township",
+    "zip3": "358",
+    "alias": [
+      "苑裡"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "苗栗市",
+    "en": "Miaoli City",
+    "zip3": "360",
+    "alias": [
+      "苗栗"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "造橋鄉",
+    "en": "Zaoqiao Township",
+    "zip3": "361",
+    "alias": [
+      "造橋"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "頭屋鄉",
+    "en": "Touwu Township",
+    "zip3": "362",
+    "alias": [
+      "頭屋"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "公館鄉",
+    "en": "Gongguan Township",
+    "zip3": "363",
+    "alias": [
+      "公館"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "大湖鄉",
+    "en": "Dahu Township",
+    "zip3": "364",
+    "alias": [
+      "大湖"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "泰安鄉",
+    "en": "Tai’an Township",
+    "zip3": "365",
+    "alias": [
+      "泰安"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "銅鑼鄉",
+    "en": "Tongluo Township",
+    "zip3": "366",
+    "alias": [
+      "銅鑼"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "三義鄉",
+    "en": "Sanyi Township",
+    "zip3": "367",
+    "alias": [
+      "三義"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "西湖鄉",
+    "en": "Xihu Township",
+    "zip3": "368",
+    "alias": [
+      "西湖"
+    ]
+  },
+  {
+    "city": "MIA",
+    "zh": "卓蘭鎮",
+    "en": "Zhuolan Township",
+    "zip3": "369",
+    "alias": [
+      "卓蘭"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "中區",
+    "en": "Central Dist.",
+    "zip3": "400",
+    "alias": [
+      "中"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "東區",
+    "en": "East Dist.",
+    "zip3": "401",
+    "alias": [
+      "東"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "南區",
+    "en": "South Dist.",
+    "zip3": "402",
+    "alias": [
+      "南"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "西區",
+    "en": "West Dist.",
+    "zip3": "403",
+    "alias": [
+      "西"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "北區",
+    "en": "North Dist.",
+    "zip3": "404",
+    "alias": [
+      "北"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "北屯區",
+    "en": "Beitun Dist.",
+    "zip3": "406",
+    "alias": [
+      "北屯"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "西屯區",
+    "en": "Xitun Dist.",
+    "zip3": "407",
+    "alias": [
+      "西屯"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "南屯區",
+    "en": "Nantun Dist.",
+    "zip3": "408",
+    "alias": [
+      "南屯"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "太平區",
+    "en": "Taiping Dist.",
+    "zip3": "411",
+    "alias": [
+      "太平"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "大里區",
+    "en": "Dali Dist.",
+    "zip3": "412",
+    "alias": [
+      "大里"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "霧峰區",
+    "en": "Wufeng Dist.",
+    "zip3": "413",
+    "alias": [
+      "霧峰"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "烏日區",
+    "en": "Wuri Dist.",
+    "zip3": "414",
+    "alias": [
+      "烏日"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "豐原區",
+    "en": "Fengyuan Dist.",
+    "zip3": "420",
+    "alias": [
+      "豐原"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "后里區",
+    "en": "Houli Dist.",
+    "zip3": "421",
+    "alias": [
+      "后里"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "石岡區",
+    "en": "Shigang Dist.",
+    "zip3": "422",
+    "alias": [
+      "石岡"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "東勢區",
+    "en": "Dongshi Dist.",
+    "zip3": "423",
+    "alias": [
+      "東勢"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "和平區",
+    "en": "Heping Dist.",
+    "zip3": "424",
+    "alias": [
+      "和平"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "新社區",
+    "en": "Xinshe Dist.",
+    "zip3": "426",
+    "alias": [
+      "新社"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "潭子區",
+    "en": "Tanzi Dist.",
+    "zip3": "427",
+    "alias": [
+      "潭子"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "大雅區",
+    "en": "Daya Dist.",
+    "zip3": "428",
+    "alias": [
+      "大雅"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "神岡區",
+    "en": "Shengang Dist.",
+    "zip3": "429",
+    "alias": [
+      "神岡"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "大肚區",
+    "en": "Dadu Dist.",
+    "zip3": "432",
+    "alias": [
+      "大肚"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "沙鹿區",
+    "en": "Shalu Dist.",
+    "zip3": "433",
+    "alias": [
+      "沙鹿"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "龍井區",
+    "en": "Longjing Dist.",
+    "zip3": "434",
+    "alias": [
+      "龍井"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "梧棲區",
+    "en": "Wuqi Dist.",
+    "zip3": "435",
+    "alias": [
+      "梧棲"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "清水區",
+    "en": "Qingshui Dist.",
+    "zip3": "436",
+    "alias": [
+      "清水"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "大甲區",
+    "en": "Dajia Dist.",
+    "zip3": "437",
+    "alias": [
+      "大甲"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "外埔區",
+    "en": "Waipu Dist.",
+    "zip3": "438",
+    "alias": [
+      "外埔"
+    ]
+  },
+  {
+    "city": "TXG",
+    "zh": "大安區",
+    "en": "Da’an Dist.",
+    "zip3": "439",
+    "alias": [
+      "大安"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "彰化市",
+    "en": "Changhua City",
+    "zip3": "500",
+    "alias": [
+      "彰化"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "芬園鄉",
+    "en": "Fenyuan Township",
+    "zip3": "502",
+    "alias": [
+      "芬園"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "花壇鄉",
+    "en": "Huatan Township",
+    "zip3": "503",
+    "alias": [
+      "花壇"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "秀水鄉",
+    "en": "Xiushui Township",
+    "zip3": "504",
+    "alias": [
+      "秀水"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "鹿港鎮",
+    "en": "Lukang Township",
+    "zip3": "505",
+    "alias": [
+      "鹿港"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "福興鄉",
+    "en": "Fuxing Township",
+    "zip3": "506",
+    "alias": [
+      "福興"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "線西鄉",
+    "en": "Xianxi Township",
+    "zip3": "507",
+    "alias": [
+      "線西"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "和美鎮",
+    "en": "Hemei Township",
+    "zip3": "508",
+    "alias": [
+      "和美"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "伸港鄉",
+    "en": "Shengang Township",
+    "zip3": "509",
+    "alias": [
+      "伸港"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "員林市",
+    "en": "Yuanlin City",
+    "zip3": "510",
+    "alias": [
+      "員林"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "社頭鄉",
+    "en": "Shetou Township",
+    "zip3": "511",
+    "alias": [
+      "社頭"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "永靖鄉",
+    "en": "Yongjing Township",
+    "zip3": "512",
+    "alias": [
+      "永靖"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "埔心鄉",
+    "en": "Puxin Township",
+    "zip3": "513",
+    "alias": [
+      "埔心"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "溪湖鎮",
+    "en": "Xihu Township",
+    "zip3": "514",
+    "alias": [
+      "溪湖"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "大村鄉",
+    "en": "Dacun Township",
+    "zip3": "515",
+    "alias": [
+      "大村"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "埔鹽鄉",
+    "en": "Puyan Township",
+    "zip3": "516",
+    "alias": [
+      "埔鹽"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "田中鎮",
+    "en": "Tianzhong Township",
+    "zip3": "520",
+    "alias": [
+      "田中"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "北斗鎮",
+    "en": "Beidou Township",
+    "zip3": "521",
+    "alias": [
+      "北斗"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "田尾鄉",
+    "en": "Tianwei Township",
+    "zip3": "522",
+    "alias": [
+      "田尾"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "埤頭鄉",
+    "en": "Pitou Township",
+    "zip3": "523",
+    "alias": [
+      "埤頭"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "溪州鄉",
+    "en": "Xizhou Township",
+    "zip3": "524",
+    "alias": [
+      "溪州"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "竹塘鄉",
+    "en": "Zhutang Township",
+    "zip3": "525",
+    "alias": [
+      "竹塘"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "二林鎮",
+    "en": "Erlin Township",
+    "zip3": "526",
+    "alias": [
+      "二林"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "大城鄉",
+    "en": "Dacheng Township",
+    "zip3": "527",
+    "alias": [
+      "大城"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "芳苑鄉",
+    "en": "Fangyuan Township",
+    "zip3": "528",
+    "alias": [
+      "芳苑"
+    ]
+  },
+  {
+    "city": "CHA",
+    "zh": "二水鄉",
+    "en": "Ershui Township",
+    "zip3": "530",
+    "alias": [
+      "二水"
+    ]
+  },
+  {
+    "city": "NAN",
+    "zh": "南投市",
+    "en": "Nantou City",
+    "zip3": "540",
+    "alias": [
+      "南投"
+    ]
+  },
+  {
+    "city": "NAN",
+    "zh": "中寮鄉",
+    "en": "Zhongliao Township",
+    "zip3": "541",
+    "alias": [
+      "中寮"
+    ]
+  },
+  {
+    "city": "NAN",
+    "zh": "草屯鎮",
+    "en": "Caotun Township",
+    "zip3": "542",
+    "alias": [
+      "草屯"
+    ]
+  },
+  {
+    "city": "NAN",
+    "zh": "國姓鄉",
+    "en": "Guoxing Township",
+    "zip3": "544",
+    "alias": [
+      "國姓"
+    ]
+  },
+  {
+    "city": "NAN",
+    "zh": "埔里鎮",
+    "en": "Puli Township",
+    "zip3": "545",
+    "alias": [
+      "埔里"
+    ]
+  },
+  {
+    "city": "NAN",
+    "zh": "仁愛鄉",
+    "en": "Ren’ai Township",
+    "zip3": "546",
+    "alias": [
+      "仁愛"
+    ]
+  },
+  {
+    "city": "NAN",
+    "zh": "名間鄉",
+    "en": "Mingjian Township",
+    "zip3": "551",
+    "alias": [
+      "名間"
+    ]
+  },
+  {
+    "city": "NAN",
+    "zh": "集集鎮",
+    "en": "Jiji Township",
+    "zip3": "552",
+    "alias": [
+      "集集"
+    ]
+  },
+  {
+    "city": "NAN",
+    "zh": "水里鄉",
+    "en": "Shuili Township",
+    "zip3": "553",
+    "alias": [
+      "水里"
+    ]
+  },
+  {
+    "city": "NAN",
+    "zh": "魚池鄉",
+    "en": "Yuchi Township",
+    "zip3": "555",
+    "alias": [
+      "魚池"
+    ]
+  },
+  {
+    "city": "NAN",
+    "zh": "信義鄉",
+    "en": "Xinyi Township",
+    "zip3": "556",
+    "alias": [
+      "信義"
+    ]
+  },
+  {
+    "city": "NAN",
+    "zh": "竹山鎮",
+    "en": "Zhushan Township",
+    "zip3": "557",
+    "alias": [
+      "竹山"
+    ]
+  },
+  {
+    "city": "NAN",
+    "zh": "鹿谷鄉",
+    "en": "Lugu Township",
+    "zip3": "558",
+    "alias": [
+      "鹿谷"
+    ]
+  },
+  {
+    "city": "CYI",
+    "zh": "西區",
+    "en": "West Dist.",
+    "zip3": "600",
+    "alias": [
+      "西"
+    ]
+  },
+  {
+    "city": "CYI",
+    "zh": "東區",
+    "en": "East Dist.",
+    "zip3": "600",
+    "alias": [
+      "東"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "番路鄉",
+    "en": "Fanlu Township",
+    "zip3": "602",
+    "alias": [
+      "番路"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "梅山鄉",
+    "en": "Meishan Township",
+    "zip3": "603",
+    "alias": [
+      "梅山"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "竹崎鄉",
+    "en": "Zhuqi Township",
+    "zip3": "604",
+    "alias": [
+      "竹崎"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "阿里山鄉",
+    "en": "Alishan Township",
+    "zip3": "605",
+    "alias": [
+      "阿里山"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "中埔鄉",
+    "en": "Zhongpu Township",
+    "zip3": "606",
+    "alias": [
+      "中埔"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "大埔鄉",
+    "en": "Dapu Township",
+    "zip3": "607",
+    "alias": [
+      "大埔"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "水上鄉",
+    "en": "Shuishang Township",
+    "zip3": "608",
+    "alias": [
+      "水上"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "鹿草鄉",
+    "en": "Lucao Township",
+    "zip3": "611",
+    "alias": [
+      "鹿草"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "太保市",
+    "en": "Taibao City",
+    "zip3": "612",
+    "alias": [
+      "太保"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "朴子市",
+    "en": "Puzi City",
+    "zip3": "613",
+    "alias": [
+      "朴子"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "東石鄉",
+    "en": "Dongshi Township",
+    "zip3": "614",
+    "alias": [
+      "東石"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "六腳鄉",
+    "en": "Liujiao Township",
+    "zip3": "615",
+    "alias": [
+      "六腳"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "新港鄉",
+    "en": "Xingang Township",
+    "zip3": "616",
+    "alias": [
+      "新港"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "民雄鄉",
+    "en": "Minxiong Township",
+    "zip3": "621",
+    "alias": [
+      "民雄"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "大林鎮",
+    "en": "Dalin Township",
+    "zip3": "622",
+    "alias": [
+      "大林"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "溪口鄉",
+    "en": "Xikou Township",
+    "zip3": "623",
+    "alias": [
+      "溪口"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "義竹鄉",
+    "en": "Yizhu Township",
+    "zip3": "624",
+    "alias": [
+      "義竹"
+    ]
+  },
+  {
+    "city": "CYQ",
+    "zh": "布袋鎮",
+    "en": "Budai Township",
+    "zip3": "625",
+    "alias": [
+      "布袋"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "斗南鎮",
+    "en": "Dounan Township",
+    "zip3": "630",
+    "alias": [
+      "斗南"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "大埤鄉",
+    "en": "Dapi Township",
+    "zip3": "631",
+    "alias": [
+      "大埤"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "虎尾鎮",
+    "en": "Huwei Township",
+    "zip3": "632",
+    "alias": [
+      "虎尾"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "土庫鎮",
+    "en": "Tuku Township",
+    "zip3": "633",
+    "alias": [
+      "土庫"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "褒忠鄉",
+    "en": "Baozhong Township",
+    "zip3": "634",
+    "alias": [
+      "褒忠"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "東勢鄉",
+    "en": "Dongshi Township",
+    "zip3": "635",
+    "alias": [
+      "東勢"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "臺西鄉",
+    "en": "Taixi Township",
+    "zip3": "636",
+    "alias": [
+      "臺西"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "崙背鄉",
+    "en": "Lunbei Township",
+    "zip3": "637",
+    "alias": [
+      "崙背"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "麥寮鄉",
+    "en": "Mailiao Township",
+    "zip3": "638",
+    "alias": [
+      "麥寮"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "斗六市",
+    "en": "Douliu City",
+    "zip3": "640",
+    "alias": [
+      "斗六"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "林內鄉",
+    "en": "Linnei Township",
+    "zip3": "643",
+    "alias": [
+      "林內"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "古坑鄉",
+    "en": "Gukeng Township",
+    "zip3": "646",
+    "alias": [
+      "古坑"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "莿桐鄉",
+    "en": "Citong Township",
+    "zip3": "647",
+    "alias": [
+      "莿桐"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "西螺鎮",
+    "en": "Xiluo Township",
+    "zip3": "648",
+    "alias": [
+      "西螺"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "二崙鄉",
+    "en": "Erlun Township",
+    "zip3": "649",
+    "alias": [
+      "二崙"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "北港鎮",
+    "en": "Beigang Township",
+    "zip3": "651",
+    "alias": [
+      "北港"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "水林鄉",
+    "en": "Shuilin Township",
+    "zip3": "652",
+    "alias": [
+      "水林"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "口湖鄉",
+    "en": "Kouhu Township",
+    "zip3": "653",
+    "alias": [
+      "口湖"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "四湖鄉",
+    "en": "Sihu Township",
+    "zip3": "654",
+    "alias": [
+      "四湖"
+    ]
+  },
+  {
+    "city": "YUN",
+    "zh": "元長鄉",
+    "en": "Yuanchang Township",
+    "zip3": "655",
+    "alias": [
+      "元長"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "中西區",
+    "en": "West Central Dist.",
+    "zip3": "700",
+    "alias": [
+      "中西"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "東區",
+    "en": "East Dist.",
+    "zip3": "701",
+    "alias": [
+      "東"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "南區",
+    "en": "South Dist.",
+    "zip3": "702",
+    "alias": [
+      "南"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "北區",
+    "en": "North Dist.",
+    "zip3": "704",
+    "alias": [
+      "北"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "安平區",
+    "en": "Anping Dist.",
+    "zip3": "708",
+    "alias": [
+      "安平"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "安南區",
+    "en": "Annan Dist.",
+    "zip3": "709",
+    "alias": [
+      "安南"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "永康區",
+    "en": "Yongkang Dist.",
+    "zip3": "710",
+    "alias": [
+      "永康"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "歸仁區",
+    "en": "Guiren Dist.",
+    "zip3": "711",
+    "alias": [
+      "歸仁"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "新化區",
+    "en": "Xinhua Dist.",
+    "zip3": "712",
+    "alias": [
+      "新化"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "左鎮區",
+    "en": "Zuozhen Dist.",
+    "zip3": "713",
+    "alias": [
+      "左鎮"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "玉井區",
+    "en": "Yujing Dist.",
+    "zip3": "714",
+    "alias": [
+      "玉井"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "楠西區",
+    "en": "Nanxi Dist.",
+    "zip3": "715",
+    "alias": [
+      "楠西"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "南化區",
+    "en": "Nanhua Dist.",
+    "zip3": "716",
+    "alias": [
+      "南化"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "仁德區",
+    "en": "Rende Dist.",
+    "zip3": "717",
+    "alias": [
+      "仁德"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "關廟區",
+    "en": "Guanmiao Dist.",
+    "zip3": "718",
+    "alias": [
+      "關廟"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "龍崎區",
+    "en": "Longqi Dist.",
+    "zip3": "719",
+    "alias": [
+      "龍崎"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "官田區",
+    "en": "Guantian Dist.",
+    "zip3": "720",
+    "alias": [
+      "官田"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "麻豆區",
+    "en": "Madou Dist.",
+    "zip3": "721",
+    "alias": [
+      "麻豆"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "佳里區",
+    "en": "Jiali Dist.",
+    "zip3": "722",
+    "alias": [
+      "佳里"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "西港區",
+    "en": "Xigang Dist.",
+    "zip3": "723",
+    "alias": [
+      "西港"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "七股區",
+    "en": "Qigu Dist.",
+    "zip3": "724",
+    "alias": [
+      "七股"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "將軍區",
+    "en": "Jiangjun Dist.",
+    "zip3": "725",
+    "alias": [
+      "將軍"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "學甲區",
+    "en": "Xuejia Dist.",
+    "zip3": "726",
+    "alias": [
+      "學甲"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "北門區",
+    "en": "Beimen Dist.",
+    "zip3": "727",
+    "alias": [
+      "北門"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "新營區",
+    "en": "Xinying Dist.",
+    "zip3": "730",
+    "alias": [
+      "新營"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "後壁區",
+    "en": "Houbi Dist.",
+    "zip3": "731",
+    "alias": [
+      "後壁"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "白河區",
+    "en": "Baihe Dist.",
+    "zip3": "732",
+    "alias": [
+      "白河"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "東山區",
+    "en": "Dongshan Dist.",
+    "zip3": "733",
+    "alias": [
+      "東山"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "六甲區",
+    "en": "Liujia Dist.",
+    "zip3": "734",
+    "alias": [
+      "六甲"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "下營區",
+    "en": "Xiaying Dist.",
+    "zip3": "735",
+    "alias": [
+      "下營"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "柳營區",
+    "en": "Liuying Dist.",
+    "zip3": "736",
+    "alias": [
+      "柳營"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "鹽水區",
+    "en": "Yanshui Dist.",
+    "zip3": "737",
+    "alias": [
+      "鹽水"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "善化區",
+    "en": "Shanhua Dist.",
+    "zip3": "741",
+    "alias": [
+      "善化"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "新市區",
+    "en": "Xinshi Dist.",
+    "zip3": "744",
+    "alias": [
+      "新市"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "大內區",
+    "en": "Danei Dist.",
+    "zip3": "742",
+    "alias": [
+      "大內"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "山上區",
+    "en": "Shanshang Dist.",
+    "zip3": "743",
+    "alias": [
+      "山上"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "安定區",
+    "en": "Anding Dist.",
+    "zip3": "745",
+    "alias": [
+      "安定"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "新興區",
+    "en": "Xinxing Dist.",
+    "zip3": "800",
+    "alias": [
+      "新興"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "前金區",
+    "en": "Qianjin Dist.",
+    "zip3": "801",
+    "alias": [
+      "前金"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "苓雅區",
+    "en": "Lingya Dist.",
+    "zip3": "802",
+    "alias": [
+      "苓雅"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "鹽埕區",
+    "en": "Yancheng Dist.",
+    "zip3": "803",
+    "alias": [
+      "鹽埕"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "鼓山區",
+    "en": "Gushan Dist.",
+    "zip3": "804",
+    "alias": [
+      "鼓山"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "旗津區",
+    "en": "Qijin Dist.",
+    "zip3": "805",
+    "alias": [
+      "旗津"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "前鎮區",
+    "en": "Qianzhen Dist.",
+    "zip3": "806",
+    "alias": [
+      "前鎮"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "三民區",
+    "en": "Sanmin Dist.",
+    "zip3": "807",
+    "alias": [
+      "三民"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "楠梓區",
+    "en": "Nanzi Dist.",
+    "zip3": "811",
+    "alias": [
+      "楠梓"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "小港區",
+    "en": "Xiaogang Dist.",
+    "zip3": "812",
+    "alias": [
+      "小港"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "左營區",
+    "en": "Zuoying Dist.",
+    "zip3": "813",
+    "alias": [
+      "左營"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "仁武區",
+    "en": "Renwu Dist.",
+    "zip3": "814",
+    "alias": [
+      "仁武"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "大社區",
+    "en": "Dashe Dist.",
+    "zip3": "815",
+    "alias": [
+      "大社"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "東沙群島",
+    "en": "Dongsha Islands",
+    "zip3": "817",
+    "alias": []
+  },
+  {
+    "city": "KHH",
+    "zh": "南沙群島",
+    "en": "Nansha Islands",
+    "zip3": "819",
+    "alias": []
+  },
+  {
+    "city": "KHH",
+    "zh": "岡山區",
+    "en": "Gangshan Dist.",
+    "zip3": "820",
+    "alias": [
+      "岡山"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "路竹區",
+    "en": "Luzhu Dist.",
+    "zip3": "821",
+    "alias": [
+      "路竹"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "阿蓮區",
+    "en": "Alian Dist.",
+    "zip3": "822",
+    "alias": [
+      "阿蓮"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "田寮區",
+    "en": "Tianliao Dist.",
+    "zip3": "823",
+    "alias": [
+      "田寮"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "燕巢區",
+    "en": "Yanchao Dist.",
+    "zip3": "824",
+    "alias": [
+      "燕巢"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "橋頭區",
+    "en": "Qiaotou Dist.",
+    "zip3": "825",
+    "alias": [
+      "橋頭"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "梓官區",
+    "en": "Ziguan Dist.",
+    "zip3": "826",
+    "alias": [
+      "梓官"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "彌陀區",
+    "en": "Mituo Dist.",
+    "zip3": "827",
+    "alias": [
+      "彌陀"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "永安區",
+    "en": "Yong’an Dist.",
+    "zip3": "828",
+    "alias": [
+      "永安"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "湖內區",
+    "en": "Hunei Dist.",
+    "zip3": "829",
+    "alias": [
+      "湖內"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "鳳山區",
+    "en": "Fengshan Dist.",
+    "zip3": "830",
+    "alias": [
+      "鳳山"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "大寮區",
+    "en": "Daliao Dist.",
+    "zip3": "831",
+    "alias": [
+      "大寮"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "林園區",
+    "en": "Linyuan Dist.",
+    "zip3": "832",
+    "alias": [
+      "林園"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "鳥松區",
+    "en": "Niaosong Dist.",
+    "zip3": "833",
+    "alias": [
+      "鳥松"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "大樹區",
+    "en": "Dashu Dist.",
+    "zip3": "840",
+    "alias": [
+      "大樹"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "旗山區",
+    "en": "Qishan Dist.",
+    "zip3": "842",
+    "alias": [
+      "旗山"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "美濃區",
+    "en": "Meinong Dist.",
+    "zip3": "843",
+    "alias": [
+      "美濃"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "六龜區",
+    "en": "Liugui Dist.",
+    "zip3": "844",
+    "alias": [
+      "六龜"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "內門區",
+    "en": "Neimen Dist.",
+    "zip3": "845",
+    "alias": [
+      "內門"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "杉林區",
+    "en": "Shanlin Dist.",
+    "zip3": "846",
+    "alias": [
+      "杉林"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "甲仙區",
+    "en": "Jiaxian Dist.",
+    "zip3": "847",
+    "alias": [
+      "甲仙"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "桃源區",
+    "en": "Taoyuan Dist.",
+    "zip3": "848",
+    "alias": [
+      "桃源"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "那瑪夏區",
+    "en": "Namaxia Dist.",
+    "zip3": "849",
+    "alias": [
+      "那瑪夏"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "茂林區",
+    "en": "Maolin Dist.",
+    "zip3": "851",
+    "alias": [
+      "茂林"
+    ]
+  },
+  {
+    "city": "KHH",
+    "zh": "茄萣區",
+    "en": "Qieding Dist.",
+    "zip3": "852",
+    "alias": [
+      "茄萣"
+    ]
+  },
+  {
+    "city": "PEN",
+    "zh": "馬公市",
+    "en": "Magong City",
+    "zip3": "880",
+    "alias": [
+      "馬公"
+    ]
+  },
+  {
+    "city": "PEN",
+    "zh": "西嶼鄉",
+    "en": "Xiyu Township",
+    "zip3": "881",
+    "alias": [
+      "西嶼"
+    ]
+  },
+  {
+    "city": "PEN",
+    "zh": "望安鄉",
+    "en": "Wang’an Township",
+    "zip3": "882",
+    "alias": [
+      "望安"
+    ]
+  },
+  {
+    "city": "PEN",
+    "zh": "七美鄉",
+    "en": "Qimei Township",
+    "zip3": "883",
+    "alias": [
+      "七美"
+    ]
+  },
+  {
+    "city": "PEN",
+    "zh": "白沙鄉",
+    "en": "Baisha Township",
+    "zip3": "884",
+    "alias": [
+      "白沙"
+    ]
+  },
+  {
+    "city": "PEN",
+    "zh": "湖西鄉",
+    "en": "Huxi Township",
+    "zip3": "885",
+    "alias": [
+      "湖西"
+    ]
+  },
+  {
+    "city": "KIN",
+    "zh": "金沙鎮",
+    "en": "Jinsha Township",
+    "zip3": "890",
+    "alias": [
+      "金沙"
+    ]
+  },
+  {
+    "city": "KIN",
+    "zh": "金湖鎮",
+    "en": "Jinhu Township",
+    "zip3": "891",
+    "alias": [
+      "金湖"
+    ]
+  },
+  {
+    "city": "KIN",
+    "zh": "金寧鄉",
+    "en": "Jinning Township",
+    "zip3": "892",
+    "alias": [
+      "金寧"
+    ]
+  },
+  {
+    "city": "KIN",
+    "zh": "金城鎮",
+    "en": "Jincheng Township",
+    "zip3": "893",
+    "alias": [
+      "金城"
+    ]
+  },
+  {
+    "city": "KIN",
+    "zh": "烈嶼鄉",
+    "en": "Lieyu Township",
+    "zip3": "894",
+    "alias": [
+      "烈嶼"
+    ]
+  },
+  {
+    "city": "KIN",
+    "zh": "烏坵鄉",
+    "en": "Wuqiu Township",
+    "zip3": "896",
+    "alias": [
+      "烏坵"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "屏東市",
+    "en": "Pingtung City",
+    "zip3": "900",
+    "alias": [
+      "屏東"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "三地門鄉",
+    "en": "Sandimen Township",
+    "zip3": "901",
+    "alias": [
+      "三地門"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "霧臺鄉",
+    "en": "Wutai Township",
+    "zip3": "902",
+    "alias": [
+      "霧臺"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "瑪家鄉",
+    "en": "Majia Township",
+    "zip3": "903",
+    "alias": [
+      "瑪家"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "九如鄉",
+    "en": "Jiuru Township",
+    "zip3": "904",
+    "alias": [
+      "九如"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "里港鄉",
+    "en": "Ligang Township",
+    "zip3": "905",
+    "alias": [
+      "里港"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "高樹鄉",
+    "en": "Gaoshu Township",
+    "zip3": "906",
+    "alias": [
+      "高樹"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "鹽埔鄉",
+    "en": "Yanpu Township",
+    "zip3": "907",
+    "alias": [
+      "鹽埔"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "長治鄉",
+    "en": "Changzhi Township",
+    "zip3": "908",
+    "alias": [
+      "長治"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "麟洛鄉",
+    "en": "Linluo Township",
+    "zip3": "909",
+    "alias": [
+      "麟洛"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "竹田鄉",
+    "en": "Zhutian Township",
+    "zip3": "911",
+    "alias": [
+      "竹田"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "內埔鄉",
+    "en": "Neipu Township",
+    "zip3": "912",
+    "alias": [
+      "內埔"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "萬丹鄉",
+    "en": "Wandan Township",
+    "zip3": "913",
+    "alias": [
+      "萬丹"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "潮州鎮",
+    "en": "Chaozhou Township",
+    "zip3": "920",
+    "alias": [
+      "潮州"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "泰武鄉",
+    "en": "Taiwu Township",
+    "zip3": "921",
+    "alias": [
+      "泰武"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "來義鄉",
+    "en": "Laiyi Township",
+    "zip3": "922",
+    "alias": [
+      "來義"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "萬巒鄉",
+    "en": "Wanluan Township",
+    "zip3": "923",
+    "alias": [
+      "萬巒"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "崁頂鄉",
+    "en": "Kanding Township",
+    "zip3": "924",
+    "alias": [
+      "崁頂"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "新埤鄉",
+    "en": "Xinpi Township",
+    "zip3": "925",
+    "alias": [
+      "新埤"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "南州鄉",
+    "en": "Nanzhou Township",
+    "zip3": "926",
+    "alias": [
+      "南州"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "林邊鄉",
+    "en": "Linbian Township",
+    "zip3": "927",
+    "alias": [
+      "林邊"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "東港鎮",
+    "en": "Donggang Township",
+    "zip3": "928",
+    "alias": [
+      "東港"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "琉球鄉",
+    "en": "Liuqiu Township",
+    "zip3": "929",
+    "alias": [
+      "琉球"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "佳冬鄉",
+    "en": "Jiadong Township",
+    "zip3": "931",
+    "alias": [
+      "佳冬"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "新園鄉",
+    "en": "Xinyuan Township",
+    "zip3": "932",
+    "alias": [
+      "新園"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "枋寮鄉",
+    "en": "Fangliao Township",
+    "zip3": "940",
+    "alias": [
+      "枋寮"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "枋山鄉",
+    "en": "Fangshan Township",
+    "zip3": "941",
+    "alias": [
+      "枋山"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "春日鄉",
+    "en": "Chunri Township",
+    "zip3": "942",
+    "alias": [
+      "春日"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "獅子鄉",
+    "en": "Shizi Township",
+    "zip3": "943",
+    "alias": [
+      "獅子"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "車城鄉",
+    "en": "Checheng Township",
+    "zip3": "944",
+    "alias": [
+      "車城"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "牡丹鄉",
+    "en": "Mudan Township",
+    "zip3": "945",
+    "alias": [
+      "牡丹"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "恆春鎮",
+    "en": "Hengchun Township",
+    "zip3": "946",
+    "alias": [
+      "恆春"
+    ]
+  },
+  {
+    "city": "PIF",
+    "zh": "滿州鄉",
+    "en": "Manzhou Township",
+    "zip3": "947",
+    "alias": [
+      "滿州"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "臺東市",
+    "en": "Taitung City",
+    "zip3": "950",
+    "alias": [
+      "臺東"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "綠島鄉",
+    "en": "Ludao Township",
+    "zip3": "951",
+    "alias": [
+      "綠島"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "蘭嶼鄉",
+    "en": "Lanyu Township",
+    "zip3": "952",
+    "alias": [
+      "蘭嶼"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "延平鄉",
+    "en": "Yanping Township",
+    "zip3": "953",
+    "alias": [
+      "延平"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "卑南鄉",
+    "en": "Beinan Township",
+    "zip3": "954",
+    "alias": [
+      "卑南"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "鹿野鄉",
+    "en": "Luye Township",
+    "zip3": "955",
+    "alias": [
+      "鹿野"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "關山鎮",
+    "en": "Guanshan Township",
+    "zip3": "956",
+    "alias": [
+      "關山"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "海端鄉",
+    "en": "Haiduan Township",
+    "zip3": "957",
+    "alias": [
+      "海端"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "池上鄉",
+    "en": "Chishang Township",
+    "zip3": "958",
+    "alias": [
+      "池上"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "東河鄉",
+    "en": "Donghe Township",
+    "zip3": "959",
+    "alias": [
+      "東河"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "成功鎮",
+    "en": "Chenggong Township",
+    "zip3": "961",
+    "alias": [
+      "成功"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "長濱鄉",
+    "en": "Changbin Township",
+    "zip3": "962",
+    "alias": [
+      "長濱"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "太麻里鄉",
+    "en": "Taimali Township",
+    "zip3": "963",
+    "alias": [
+      "太麻里"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "金峰鄉",
+    "en": "Jinfeng Township",
+    "zip3": "964",
+    "alias": [
+      "金峰"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "大武鄉",
+    "en": "Dawu Township",
+    "zip3": "965",
+    "alias": [
+      "大武"
+    ]
+  },
+  {
+    "city": "TTT",
+    "zh": "達仁鄉",
+    "en": "Daren Township",
+    "zip3": "966",
+    "alias": [
+      "達仁"
+    ]
+  },
+  {
+    "city": "HUA",
+    "zh": "花蓮市",
+    "en": "Hualien City",
+    "zip3": "970",
+    "alias": [
+      "花蓮"
+    ]
+  },
+  {
+    "city": "HUA",
+    "zh": "新城鄉",
+    "en": "Xincheng Township",
+    "zip3": "971",
+    "alias": [
+      "新城"
+    ]
+  },
+  {
+    "city": "HUA",
+    "zh": "秀林鄉",
+    "en": "Xiulin Township",
+    "zip3": "972",
+    "alias": [
+      "秀林"
+    ]
+  },
+  {
+    "city": "HUA",
+    "zh": "吉安鄉",
+    "en": "Ji’an Township",
+    "zip3": "973",
+    "alias": [
+      "吉安"
+    ]
+  },
+  {
+    "city": "HUA",
+    "zh": "壽豐鄉",
+    "en": "Shoufeng Township",
+    "zip3": "974",
+    "alias": [
+      "壽豐"
+    ]
+  },
+  {
+    "city": "HUA",
+    "zh": "鳳林鎮",
+    "en": "Fenglin Township",
+    "zip3": "975",
+    "alias": [
+      "鳳林"
+    ]
+  },
+  {
+    "city": "HUA",
+    "zh": "光復鄉",
+    "en": "Guangfu Township",
+    "zip3": "976",
+    "alias": [
+      "光復"
+    ]
+  },
+  {
+    "city": "HUA",
+    "zh": "豐濱鄉",
+    "en": "Fengbin Township",
+    "zip3": "977",
+    "alias": [
+      "豐濱"
+    ]
+  },
+  {
+    "city": "HUA",
+    "zh": "瑞穗鄉",
+    "en": "Ruisui Township",
+    "zip3": "978",
+    "alias": [
+      "瑞穗"
+    ]
+  },
+  {
+    "city": "HUA",
+    "zh": "萬榮鄉",
+    "en": "Wanrong Township",
+    "zip3": "979",
+    "alias": [
+      "萬榮"
+    ]
+  },
+  {
+    "city": "HUA",
+    "zh": "玉里鎮",
+    "en": "Yuli Township",
+    "zip3": "981",
+    "alias": [
+      "玉里"
+    ]
+  },
+  {
+    "city": "HUA",
+    "zh": "卓溪鄉",
+    "en": "Zhuoxi Township",
+    "zip3": "982",
+    "alias": [
+      "卓溪"
+    ]
+  },
+  {
+    "city": "HUA",
+    "zh": "富里鄉",
+    "en": "Fuli Township",
+    "zip3": "983",
+    "alias": [
+      "富里"
+    ]
+  }
+]

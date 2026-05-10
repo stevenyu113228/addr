@@ -1,0 +1,93 @@
+[
+  {
+    "input": "臺北市信義區信義路五段7號",
+    "city": "臺北市", "cityEn": "Taipei City",
+    "district": "信義區", "districtEn": "Xinyi Dist.",
+    "road": "信義路", "section": 5, "no": 7,
+    "zip3": "110",
+    "en": "No. 7, Sec. 5, Xinyi Rd., Xinyi Dist., Taipei City 110, Taiwan (R.O.C.)"
+  },
+  {
+    "input": "台北市中山區中山北路二段45號3樓",
+    "city": "臺北市", "district": "中山區", "road": "中山北路",
+    "section": 2, "no": 45, "floor": 3, "zip3": "104",
+    "en": "3F, No. 45, Sec. 2, Zhongshan N. Rd., Zhongshan Dist., Taipei City 104, Taiwan (R.O.C.)"
+  },
+  {
+    "input": "新北市板橋區文化路一段188巷6弄2之3號5樓",
+    "city": "新北市", "district": "板橋區", "road": "文化路",
+    "section": 1, "lane": 188, "alley": 6, "no": 2, "sub": 3, "floor": 5,
+    "zip3": "220",
+    "en": "5F, No. 2-3, Aly. 6, Ln. 188, Sec. 1, Wenhua Rd., Banqiao Dist., New Taipei City 220, Taiwan (R.O.C.)"
+  },
+  {
+    "input": "桃園市中壢區中央西路二段100號",
+    "city": "桃園市", "district": "中壢區", "road": "中央西路",
+    "section": 2, "no": 100, "zip3": "320",
+    "en": "No. 100, Sec. 2, Zhongyang W. Rd., Zhongli Dist., Taoyuan City 320, Taiwan (R.O.C.)"
+  },
+  {
+    "input": "臺中市西屯區臺灣大道三段99號8樓之2",
+    "city": "臺中市", "district": "西屯區", "road": "臺灣大道",
+    "section": 3, "no": 99, "floor": 8, "subFloor": 2, "zip3": "407",
+    "en": "8F.-2, No. 99, Sec. 3, Taiwan Blvd., Xitun Dist., Taichung City 407, Taiwan (R.O.C.)"
+  },
+  {
+    "input": "高雄市苓雅區四維三路6號",
+    "city": "高雄市", "district": "苓雅區", "road": "四維三路",
+    "no": 6, "zip3": "802",
+    "en": "No. 6, Siwei 3rd Rd., Lingya Dist., Kaohsiung City 802, Taiwan (R.O.C.)"
+  },
+  {
+    "input": "臺南市中西區民權路二段30巷5號",
+    "city": "臺南市", "district": "中西區", "road": "民權路",
+    "section": 2, "lane": 30, "no": 5, "zip3": "700",
+    "en": "No. 5, Ln. 30, Sec. 2, Minquan Rd., West Central Dist., Tainan City 700, Taiwan (R.O.C.)"
+  },
+  {
+    "input": "花蓮縣花蓮市國聯一路100號",
+    "city": "花蓮縣", "district": "花蓮市", "road": "國聯一路",
+    "no": 100, "zip3": "970",
+    "en": "No. 100, Guolian 1st Rd., Hualien City, Hualien County 970, Taiwan (R.O.C.)"
+  },
+  {
+    "input": "連江縣南竿鄉介壽村76號",
+    "city": "連江縣", "district": "南竿鄉",
+    "village": "介壽村", "no": 76, "zip3": "209",
+    "en": "No. 76, Jieshou Vil., Nangan Township, Lienchiang County 209, Taiwan (R.O.C.)"
+  },
+  {
+    "input": "金門縣金城鎮民生路1之2號",
+    "city": "金門縣", "district": "金城鎮", "road": "民生路",
+    "no": 1, "sub": 2, "zip3": "893",
+    "en": "No. 1-2, Minsheng Rd., Jincheng Township, Kinmen County 893, Taiwan (R.O.C.)"
+  },
+  {
+    "input": "北市大安區忠孝東路四段一號",
+    "city": "臺北市", "district": "大安區", "road": "忠孝東路",
+    "section": 4, "no": 1, "zip3": "106",
+    "en": "No. 1, Sec. 4, Zhongxiao E. Rd., Da’an Dist., Taipei City 106, Taiwan (R.O.C.)"
+  },
+  {
+    "input": "新竹市東區中華路一段500號",
+    "city": "新竹市", "district": "東區", "road": "中華路",
+    "section": 1, "no": 500, "zip3": "300",
+    "en": "No. 500, Sec. 1, Zhonghua Rd., East Dist., Hsinchu City 300, Taiwan (R.O.C.)"
+  },
+  {
+    "input": "新北市永和區保福里",
+    "city": "新北市", "district": "永和區",
+    "village": "保福里", "zip3": "234",
+    "missing": ["road"]
+  },
+  {
+    "input": "宜蘭縣宜蘭市新民路1號",
+    "city": "宜蘭縣", "district": "宜蘭市", "road": "新民路",
+    "no": 1, "zip3": "260"
+  },
+  {
+    "input": "臺東縣臺東市中華路一段100號",
+    "city": "臺東縣", "district": "臺東市", "road": "中華路",
+    "section": 1, "no": 100, "zip3": "950"
+  }
+]
