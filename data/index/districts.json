@@ -189,6 +189,42 @@
     ]
   },
   {
+    "city": "LIE",
+    "zh": "南竿鄉",
+    "en": "Nangan Township",
+    "zip3": "209",
+    "alias": [
+      "南竿"
+    ]
+  },
+  {
+    "city": "LIE",
+    "zh": "北竿鄉",
+    "en": "Beigan Township",
+    "zip3": "210",
+    "alias": [
+      "北竿"
+    ]
+  },
+  {
+    "city": "LIE",
+    "zh": "莒光鄉",
+    "en": "Juguang Township",
+    "zip3": "211",
+    "alias": [
+      "莒光"
+    ]
+  },
+  {
+    "city": "LIE",
+    "zh": "東引鄉",
+    "en": "Dongyin Township",
+    "zip3": "212",
+    "alias": [
+      "東引"
+    ]
+  },
+  {
     "city": "NWT",
     "zh": "板橋區",
     "en": "Banqiao Dist.",
@@ -432,57 +468,12 @@
     ]
   },
   {
-    "city": "LIE",
-    "zh": "南竿鄉",
-    "en": "Nangan Township",
-    "zip3": "209",
-    "alias": [
-      "南竿"
-    ]
-  },
-  {
-    "city": "LIE",
-    "zh": "北竿鄉",
-    "en": "Beigan Township",
-    "zip3": "210",
-    "alias": [
-      "北竿"
-    ]
-  },
-  {
-    "city": "LIE",
-    "zh": "莒光鄉",
-    "en": "Juguang Township",
-    "zip3": "211",
-    "alias": [
-      "莒光"
-    ]
-  },
-  {
-    "city": "LIE",
-    "zh": "東引鄉",
-    "en": "Dongyin Township",
-    "zip3": "212",
-    "alias": [
-      "東引"
-    ]
-  },
-  {
     "city": "ILA",
     "zh": "宜蘭市",
     "en": "Yilan City",
     "zip3": "260",
     "alias": [
       "宜蘭"
-    ]
-  },
-  {
-    "city": "ILA",
-    "zh": "壯圍鄉",
-    "en": "Zhuangwei Township",
-    "zip3": "263",
-    "alias": [
-      "壯圍"
     ]
   },
   {
@@ -501,6 +492,15 @@
     "zip3": "262",
     "alias": [
       "礁溪"
+    ]
+  },
+  {
+    "city": "ILA",
+    "zh": "壯圍鄉",
+    "en": "Zhuangwei Township",
+    "zip3": "263",
+    "alias": [
+      "壯圍"
     ]
   },
   {
@@ -576,13 +576,6 @@
     ]
   },
   {
-    "city": "ILA",
-    "zh": "釣魚臺",
-    "en": "Diaoyutai",
-    "zip3": "290",
-    "alias": []
-  },
-  {
     "city": "HSZ",
     "zh": "東區",
     "en": "East Dist.",
@@ -607,15 +600,6 @@
     "zip3": "300",
     "alias": [
       "香山"
-    ]
-  },
-  {
-    "city": "HSQ",
-    "zh": "寶山鄉",
-    "en": "Baoshan Township",
-    "zip3": "308",
-    "alias": [
-      "寶山"
     ]
   },
   {
@@ -670,6 +654,15 @@
     "zip3": "307",
     "alias": [
       "芎林"
+    ]
+  },
+  {
+    "city": "HSQ",
+    "zh": "寶山鄉",
+    "en": "Baoshan Township",
+    "zip3": "308",
+    "alias": [
+      "寶山"
     ]
   },
   {
@@ -1619,20 +1612,20 @@
   },
   {
     "city": "CYI",
-    "zh": "西區",
-    "en": "West Dist.",
-    "zip3": "600",
-    "alias": [
-      "西"
-    ]
-  },
-  {
-    "city": "CYI",
     "zh": "東區",
     "en": "East Dist.",
     "zip3": "600",
     "alias": [
       "東"
+    ]
+  },
+  {
+    "city": "CYI",
+    "zh": "西區",
+    "en": "West Dist.",
+    "zip3": "600",
+    "alias": [
+      "西"
     ]
   },
   {
@@ -1971,7 +1964,7 @@
   {
     "city": "YUN",
     "zh": "元長鄉",
-    "en": "Yuanchang Township",
+    "en": "Yuanzhang Township",
     "zip3": "655",
     "alias": [
       "元長"
@@ -2276,15 +2269,6 @@
   },
   {
     "city": "TNN",
-    "zh": "新市區",
-    "en": "Xinshi Dist.",
-    "zip3": "744",
-    "alias": [
-      "新市"
-    ]
-  },
-  {
-    "city": "TNN",
     "zh": "大內區",
     "en": "Danei Dist.",
     "zip3": "742",
@@ -2299,6 +2283,15 @@
     "zip3": "743",
     "alias": [
       "山上"
+    ]
+  },
+  {
+    "city": "TNN",
+    "zh": "新市區",
+    "en": "Xinshi Dist.",
+    "zip3": "744",
+    "alias": [
+      "新市"
     ]
   },
   {

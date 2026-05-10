@@ -1,138 +1,5 @@
 [
   {
-    "code": "TPE",
-    "zh": "臺北市",
-    "en": "Taipei City",
-    "alias": [
-      "北市",
-      "台北",
-      "台北市",
-      "臺北"
-    ],
-    "zip3Range": [
-      "100",
-      "116"
-    ]
-  },
-  {
-    "code": "KEE",
-    "zh": "基隆市",
-    "en": "Keelung City",
-    "alias": [
-      "基市",
-      "基隆"
-    ],
-    "zip3Range": [
-      "200",
-      "206"
-    ]
-  },
-  {
-    "code": "NWT",
-    "zh": "新北市",
-    "en": "New Taipei City",
-    "alias": [
-      "新北"
-    ],
-    "zip3Range": [
-      "207",
-      "253"
-    ]
-  },
-  {
-    "code": "LIE",
-    "zh": "連江縣",
-    "en": "Lienchiang County",
-    "alias": [
-      "連江",
-      "馬祖"
-    ],
-    "zip3Range": [
-      "209",
-      "212"
-    ]
-  },
-  {
-    "code": "ILA",
-    "zh": "宜蘭縣",
-    "en": "Yilan County",
-    "alias": [
-      "宜縣",
-      "宜蘭"
-    ],
-    "zip3Range": [
-      "260",
-      "290"
-    ]
-  },
-  {
-    "code": "HSZ",
-    "zh": "新竹市",
-    "en": "Hsinchu City",
-    "alias": [
-      "新竹",
-      "竹市"
-    ],
-    "zip3Range": [
-      "300",
-      "300"
-    ]
-  },
-  {
-    "code": "HSQ",
-    "zh": "新竹縣",
-    "en": "Hsinchu County",
-    "alias": [
-      "新竹",
-      "竹縣"
-    ],
-    "zip3Range": [
-      "302",
-      "315"
-    ]
-  },
-  {
-    "code": "TAO",
-    "zh": "桃園市",
-    "en": "Taoyuan City",
-    "alias": [
-      "桃園",
-      "桃市"
-    ],
-    "zip3Range": [
-      "320",
-      "338"
-    ]
-  },
-  {
-    "code": "MIA",
-    "zh": "苗栗縣",
-    "en": "Miaoli County",
-    "alias": [
-      "苗栗",
-      "苗縣"
-    ],
-    "zip3Range": [
-      "350",
-      "369"
-    ]
-  },
-  {
-    "code": "TXG",
-    "zh": "臺中市",
-    "en": "Taichung City",
-    "alias": [
-      "中市",
-      "台中",
-      "台中市",
-      "臺中"
-    ],
-    "zip3Range": [
-      "400",
-      "439"
-    ]
-  },
-  {
     "code": "CHA",
     "zh": "彰化縣",
     "en": "Changhua County",
@@ -143,19 +10,6 @@
     "zip3Range": [
       "500",
       "530"
-    ]
-  },
-  {
-    "code": "NAN",
-    "zh": "南投縣",
-    "en": "Nantou County",
-    "alias": [
-      "南投",
-      "投縣"
-    ],
-    "zip3Range": [
-      "540",
-      "558"
     ]
   },
   {
@@ -185,16 +39,184 @@
     ]
   },
   {
-    "code": "YUN",
-    "zh": "雲林縣",
-    "en": "Yunlin County",
+    "code": "HSQ",
+    "zh": "新竹縣",
+    "en": "Hsinchu County",
     "alias": [
-      "雲林",
-      "雲縣"
+      "新竹",
+      "竹縣"
     ],
     "zip3Range": [
-      "630",
-      "655"
+      "302",
+      "315"
+    ]
+  },
+  {
+    "code": "HSZ",
+    "zh": "新竹市",
+    "en": "Hsinchu City",
+    "alias": [
+      "新竹",
+      "竹市"
+    ],
+    "zip3Range": [
+      "300",
+      "300"
+    ]
+  },
+  {
+    "code": "HUA",
+    "zh": "花蓮縣",
+    "en": "Hualien County",
+    "alias": [
+      "花縣",
+      "花蓮"
+    ],
+    "zip3Range": [
+      "970",
+      "983"
+    ]
+  },
+  {
+    "code": "ILA",
+    "zh": "宜蘭縣",
+    "en": "Yilan County",
+    "alias": [
+      "宜縣",
+      "宜蘭"
+    ],
+    "zip3Range": [
+      "260",
+      "272"
+    ]
+  },
+  {
+    "code": "KEE",
+    "zh": "基隆市",
+    "en": "Keelung City",
+    "alias": [
+      "基市",
+      "基隆"
+    ],
+    "zip3Range": [
+      "200",
+      "206"
+    ]
+  },
+  {
+    "code": "KHH",
+    "zh": "高雄市",
+    "en": "Kaohsiung City",
+    "alias": [
+      "高市",
+      "高雄"
+    ],
+    "zip3Range": [
+      "800",
+      "852"
+    ]
+  },
+  {
+    "code": "KIN",
+    "zh": "金門縣",
+    "en": "Kinmen County",
+    "alias": [
+      "金縣",
+      "金門"
+    ],
+    "zip3Range": [
+      "890",
+      "896"
+    ]
+  },
+  {
+    "code": "LIE",
+    "zh": "連江縣",
+    "en": "Lienchiang County",
+    "alias": [
+      "連江",
+      "馬祖"
+    ],
+    "zip3Range": [
+      "209",
+      "212"
+    ]
+  },
+  {
+    "code": "MIA",
+    "zh": "苗栗縣",
+    "en": "Miaoli County",
+    "alias": [
+      "苗栗",
+      "苗縣"
+    ],
+    "zip3Range": [
+      "350",
+      "369"
+    ]
+  },
+  {
+    "code": "NAN",
+    "zh": "南投縣",
+    "en": "Nantou County",
+    "alias": [
+      "南投",
+      "投縣"
+    ],
+    "zip3Range": [
+      "540",
+      "558"
+    ]
+  },
+  {
+    "code": "NWT",
+    "zh": "新北市",
+    "en": "New Taipei City",
+    "alias": [
+      "新北"
+    ],
+    "zip3Range": [
+      "207",
+      "253"
+    ]
+  },
+  {
+    "code": "PEN",
+    "zh": "澎湖縣",
+    "en": "Penghu County",
+    "alias": [
+      "澎湖",
+      "澎縣"
+    ],
+    "zip3Range": [
+      "880",
+      "885"
+    ]
+  },
+  {
+    "code": "PIF",
+    "zh": "屏東縣",
+    "en": "Pingtung County",
+    "alias": [
+      "屏東",
+      "屏縣"
+    ],
+    "zip3Range": [
+      "900",
+      "947"
+    ]
+  },
+  {
+    "code": "TAO",
+    "zh": "桃園市",
+    "en": "Taoyuan City",
+    "alias": [
+      "桃園",
+      "桃市"
+    ],
+    "zip3Range": [
+      "320",
+      "338"
     ]
   },
   {
@@ -213,55 +235,18 @@
     ]
   },
   {
-    "code": "KHH",
-    "zh": "高雄市",
-    "en": "Kaohsiung City",
+    "code": "TPE",
+    "zh": "臺北市",
+    "en": "Taipei City",
     "alias": [
-      "高市",
-      "高雄"
+      "北市",
+      "台北",
+      "台北市",
+      "臺北"
     ],
     "zip3Range": [
-      "800",
-      "852"
-    ]
-  },
-  {
-    "code": "PEN",
-    "zh": "澎湖縣",
-    "en": "Penghu County",
-    "alias": [
-      "澎湖",
-      "澎縣"
-    ],
-    "zip3Range": [
-      "880",
-      "885"
-    ]
-  },
-  {
-    "code": "KIN",
-    "zh": "金門縣",
-    "en": "Kinmen County",
-    "alias": [
-      "金縣",
-      "金門"
-    ],
-    "zip3Range": [
-      "890",
-      "896"
-    ]
-  },
-  {
-    "code": "PIF",
-    "zh": "屏東縣",
-    "en": "Pingtung County",
-    "alias": [
-      "屏東",
-      "屏縣"
-    ],
-    "zip3Range": [
-      "900",
-      "947"
+      "100",
+      "116"
     ]
   },
   {
@@ -280,16 +265,31 @@
     ]
   },
   {
-    "code": "HUA",
-    "zh": "花蓮縣",
-    "en": "Hualien County",
+    "code": "TXG",
+    "zh": "臺中市",
+    "en": "Taichung City",
     "alias": [
-      "花縣",
-      "花蓮"
+      "中市",
+      "台中",
+      "台中市",
+      "臺中"
     ],
     "zip3Range": [
-      "970",
-      "983"
+      "400",
+      "439"
+    ]
+  },
+  {
+    "code": "YUN",
+    "zh": "雲林縣",
+    "en": "Yunlin County",
+    "alias": [
+      "雲林",
+      "雲縣"
+    ],
+    "zip3Range": [
+      "630",
+      "655"
     ]
   }
 ]

@@ -10,5 +10,8 @@
     "build:zip5": "node build-zip5.mjs",
     "build:zip6": "node build-zip6.mjs",
     "build:all": "npm run build:index && npm run build:roads && npm run build:zip5 && npm run build:zip6"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
   }
 }
